@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 👂 heard
-  - Imperative programming: 👂 heard
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
   - Structured programming: 👂 heard
   - Non-structured programming: 👂 heard
-  - Functional programming: 👂 heard
+  - Functional programming: 🖐️ used
   - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 👂 heard
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -49,14 +49,14 @@
   - Observer: 🖐️ used
   - Strategy
   - Facade
-  - Proxy
+  - Proxy: 🖐️ used
   - Chain of Responsibility: 👂 heard
   - Command
   - Iterator: 👂 heard
   - State
   - Bridge
-  - Builder
-  - Prototype
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
   - Composite
   - Decorator
   - Flyweight
