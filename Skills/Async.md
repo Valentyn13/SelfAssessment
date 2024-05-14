@@ -9,7 +9,7 @@
   - Pattern Reactor: 🎓 known
   - CAS operations
   - epoll: 👂 heard
-  - kqueue: 👂 heard
+  - kqueue: 🎓 known
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
   - libuv:🎓 known
@@ -64,17 +64,17 @@
   - nextTick: 🖐️ used
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
+  - Promise unhandled rejection: 👂 heard
+  - Promise double resolve: 👂 heard
   - child_process
-  - worker_threads
+  - worker_threads: 🎓 known
   - Atomics
   - High resolution clock
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known
   - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
+  - Error handling in async code: 🎓 known
+  - Better stack traces with return await: 🎓 known
   - JSON: streaming serialization
   - promisify
   - callbackify
