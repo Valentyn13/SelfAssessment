@@ -34,11 +34,11 @@
   - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API
-  - Web Streams API: 🎓 known
-  - Crypto API: 🎓 known
+  - Web Streams API: 🖐️ used
+  - Crypto API: 🖐️ used
   - Password hashing with node:crypto.scrypt
-  - Web Crypto API
-  - File system API: sync and async
+  - Web Crypto API: 🖐️ used
+  - File system API: sync and async: 🖐️ used
   - Copy folder recursively
   - Worker threads: 🎓 known
   - Performance hooks: 👂 heard
@@ -55,7 +55,7 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
+  - node:url vs new URL: 🎓 known
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer: 🖐️ used
@@ -77,7 +77,7 @@
   - CQS: 👂 heard
   - CQRS: 👂 heard
   - Event sourcing
-  - Load balancing
+  - Load balancing: 👂 heard
   - Serverless clouds
   - FaaS clouds
   - Fat controller
@@ -110,14 +110,14 @@
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 🖐️ used
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 🖐️ used
   - Application configuring
-  - Testing: 🎓 known
-  - CI/CD: 🎓 known
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform
@@ -133,11 +133,11 @@
   - Data access layer
   - Repository: 🖐️ used
   - Active record
-  - Query builder: 🎓 known
-  - Object-Relational Mapping
+  - Query builder: 🖐️ used
+  - Object-Relational Mapping: 🖐️ used
 - Error handling and debugging
-  - Error
-  - error.cause
+  - Error: 🖐️ used
+  - error.cause: 🖐️ used
   - error.code: 🖐️ used
   - error.message: 🖐️ used
   - error.stack: 🖐️ used
@@ -148,11 +148,11 @@
   - Debugging tools
   - Flame graph
   - Memory leaks
-  - Resource leaks
+  - Resource leaks: 👂 heard
   - Data race
 - Integrations and bindings
   - Native addons
-  - C and C++ addons
+  - C and C++ addons: 👂 heard
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
@@ -161,10 +161,10 @@
   - NAPI Rust
   - NAPI Zig
   - Webassembly WAT
-  - Webassembly C and C++
+  - Webassembly C and C++: 👂 heard
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
-  - Shared memory
+  - Shared memory: 👂 heard
   - SharedArrayBuffer
   - V8 binary serialization
