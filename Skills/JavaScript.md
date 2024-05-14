@@ -24,7 +24,7 @@
   - globalThis:🎓 known
   - window: 🖐️ used
   - getters and setters: 🖐️ used
-  - __proto__
+  - __proto__ 🖐️ used
   - prototype: 🖐️ used
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
