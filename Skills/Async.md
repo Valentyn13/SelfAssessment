@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection: 👂 heard
   - Promise double resolve: 👂 heard
-  - child_process
+  - child_process: 🖐️ used
   - worker_threads: 🎓 known
   - Atomics
   - High resolution clock
@@ -75,7 +75,7 @@
   - ref() and unref()
   - Error handling in async code: 🎓 known
   - Better stack traces with return await: 🎓 known
-  - JSON: streaming serialization
+  - JSON: streaming serialization: 🎓 known
   - promisify
   - callbackify
   - AsyncLocalStorage
